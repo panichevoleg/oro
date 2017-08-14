@@ -1,0 +1,19 @@
+[{
+	"id": 4,
+	"parent-id": 2,
+	"type": "collapsible",
+	"title": "Element 4",
+	"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet tincidunt elit. Integer sit amet venenatis neque. Nulla ut dapibus augue. Aenean vitae nibh pharetra, tincidunt metus id, laoreet mi. Duis diam purus, laoreet quis sodales vel, sollicitudin eget purus. Vestibulum velit neque, convallis aliquam tristique vel, vestibulum tristique libero. Suspendisse sodales ligula tempus tempor iaculis. Curabitur scelerisque mattis nulla vitae lacinia. Vivamus ultrices, purus in congue molestie, orci eros ultricies ligula, eget porttitor urna nisi vehicula tortor. Etiam finibus finibus ligula in ornare. Sed tristique vehicula orci, vitae ornare sem. Morbi euismod quis justo ac varius. Pellentesque pellentesque ligula mauris, et viverra odio pulvinar eget. Pellentesque bibendum placerat dolor iaculis tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean vehicula imperdiet est."
+}, {
+	"id": 5,
+	"parent-id": 2,
+	"type": "collapsible",
+	"title": "Element 5",
+	"body": "Nunc eu varius neque, quis auctor odio. Sed malesuada diam id justo ornare semper. Sed in varius tellus. In augue nibh, fermentum nec consectetur et, ornare id neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam sit amet tristique ex, eget varius ligula. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+}, {
+	"id": 6,
+	"parent-id": 2,
+	"type": "collapsible",
+	"title": "Element 6",
+	"body": "Mauris molestie purus id leo suscipit, sit amet egestas metus feugiat. Morbi non arcu nibh. Curabitur vel scelerisque elit. Phasellus id volutpat nisi. Donec tempor nunc ac ipsum imperdiet, a sagittis massa mollis. Suspendisse fermentum turpis purus, non suscipit elit euismod vitae. Curabitur nec scelerisque nulla. Proin in quam ex."
+}]

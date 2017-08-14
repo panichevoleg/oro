@@ -1,0 +1,28 @@
+.container{
+    padding: 20px;
+}
+.nav-tabs{
+    border-bottom: 0;
+}
+.content-area .list-group-item .glyphicon{
+    float: right;
+    display: none;
+}
+.content-area .list-group-item:not(.active) .glyphicon.glyphicon-triangle-bottom{
+    display: block;
+}
+.content-area .list-group-item.active .glyphicon.glyphicon-triangle-top{
+    display: block;
+}
+.content-area .list-group-item,
+.content-area .list-group-item:first-child,
+.content-area .list-group-item:last-child{
+    border-radius: 0;
+}
+.collapse{
+    padding: 0px;
+}
+.collapse > div,
+.collapsing > div{
+    padding: 10px;
+}
